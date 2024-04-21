@@ -133,3 +133,15 @@ vim.keymap.set('n', '<leader>E', ':Neotree left reveal<CR>')
 
 -- Allow saving of files as sudo when I forgot to start vim using sudo.
 vim.keymap.set('n', ':w!!', ':w !sudo tee > /dev/null %<CR>')
+
+-- Neogit
+vim.keymap.set('n', '<leader>F', ':Neogit<CR>')
+
+--Trouble
+vim.keymap.set('n', '<leader>xx', function()
+  require('trouble').toggle()
+end)
+
+-- Obsidian
+vim.keymap.set('n', '<leader>ot', ':ObsidianToggleCheckbox<CR>')
+vim.keymap.set('n', '<leader>nt', ':n ~/Documents/vault/personal/TODO.md<CR>')

@@ -32,6 +32,7 @@ export QT_SCALE_FACTOR=2.5
 [[ $- != *i* ]] && return
 alias x='sudo $(history -p !!)'
 alias n=nvim
+alias nt='nvim ~/Documents/vault/personal/TODO.md'
 alias l='ls --color=auto -lah'
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'

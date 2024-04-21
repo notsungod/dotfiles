@@ -3,12 +3,18 @@ return {
     'nvim-treesitter/nvim-treesitter',
     build = ':TSUpdate',
     opts = {
+      matchup = {
+        enable = true, -- mandatory, false will disable the whole extension
+        disable = { 'c', 'ruby' }, -- optional, list of language that will be disabled
+        -- [options]
+      },
       -- ensure_installed = { 'bash', 'c', 'html', 'lua', 'markdown', 'vim', 'vimdoc' },
-      ensure_installed = { 'c', 'cpp', 'lua', 'vim', 'python', 'css', 'html', 'javascript' },
+      -- autotag = { enable = true },
+      ensure_installed = { 'c', 'cpp', 'lua', 'vim', 'python', 'html', 'css', 'javascript' },
       -- Autoinstall languages that are not installed
-      auto_install = true,
+      -- auto_install = true,
       highlight = { enable = true },
-      indent = { enable = true },
+      -- indent = { enable = true },
     },
     config = function(_, opts)
       -- [[ Configure Treesitter ]] See `:help nvim-treesitter`
