@@ -36,6 +36,7 @@ alias nt='nvim ~/Documents/vault/personal/TODO.md'
 alias l='ls --color=auto -lah'
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
+alias d='cd ~/united/development/ && l'
 PS1='[\u@\h \W]\$ '
 eval "$(starship init bash)"
 fcd() {
