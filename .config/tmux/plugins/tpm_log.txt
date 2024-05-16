@@ -1,0 +1,226 @@
+[2024-05-01 01:36:16.710]	 List of discovered tpm plugins: catppuccin/tmux tmux-plugins/tpm
+[2024-05-01 01:36:16.719]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-05-01 01:36:16.754]	 Installing "tmux"
+[2024-05-01 01:36:16.758]	 Already installed "tpm"
+[2024-05-01 01:36:17.578]	   "tmux" download success
+[2024-05-01 01:36:17.598]	 Done.
+
+[2024-05-01 11:41:02.424]	 List of discovered tpm plugins: catppuccin/tmux tmux-plugins/tpm
+[2024-05-01 11:41:02.434]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-05-01 11:41:02.482]	 Already installed "tpm"
+[2024-05-01 11:41:02.485]	 Already installed "tmux"
+[2024-05-01 11:41:02.513]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-05-01 11:41:02.535]	 Updating all plugins!
+[2024-05-01 11:41:02.536]	 
+[2024-05-01 11:41:02.956]	   "tmux" update success
+[2024-05-01 11:41:02.958]	     | Already up to date.
+[2024-05-01 11:41:04.781]	   "tpm" update success
+[2024-05-01 11:41:04.785]	     | Already up to date.
+[2024-05-01 11:41:04.785]	     | Submodule 'lib/tmux-test' (https://github.com/tmux-plugins/tmux-test.git) registered for path 'lib/tmux-test'
+[2024-05-01 11:41:04.785]	     | Cloning into '/home/user/.config/tmux/plugins/tpm/lib/tmux-test'...
+[2024-05-01 11:41:04.785]	     | From https://github.com/tmux-plugins/tmux-test
+[2024-05-01 11:41:04.785]	     |  * branch            33fa65fbfb72ba6dd106c21bf5ee6cc353ecdbb6 -> FETCH_HEAD
+[2024-05-01 11:41:04.785]	     | Submodule path 'lib/tmux-test': checked out '33fa65fbfb72ba6dd106c21bf5ee6cc353ecdbb6'
+[2024-05-01 11:41:04.805]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-05-01 11:41:04.840]	 Done.
+
+[2024-05-01 22:19:16.834]	 List of discovered tpm plugins: catppuccin/tmux tmux-plugins/tpm
+[2024-05-01 22:19:16.846]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-05-01 22:19:16.885]	 Already installed "tpm"
+[2024-05-01 22:19:16.886]	 Already installed "tmux"
+[2024-05-01 22:19:16.905]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-05-01 22:19:16.927]	 Updating all plugins!
+[2024-05-01 22:19:16.927]	 
+[2024-05-01 22:19:17.331]	   "tmux" update success
+[2024-05-01 22:19:17.331]	   "tpm" update success
+[2024-05-01 22:19:17.334]	     | Already up to date.
+[2024-05-01 22:19:17.334]	     | Already up to date.
+[2024-05-01 22:19:17.344]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-05-01 22:19:17.388]	 Done.
+
+[2024-05-02 21:08:25.637]	 List of discovered tpm plugins: catppuccin/tmux tmux-plugins/tpm
+[2024-05-02 21:08:25.647]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-05-02 21:08:25.685]	 Already installed "tpm"
+[2024-05-02 21:08:25.686]	 Already installed "tmux"
+[2024-05-02 21:08:25.696]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-05-02 21:08:25.716]	 Updating all plugins!
+[2024-05-02 21:08:25.716]	 
+[2024-05-02 21:08:26.137]	   "tpm" update success
+[2024-05-02 21:08:26.140]	     | Already up to date.
+[2024-05-02 21:08:26.144]	   "tmux" update success
+[2024-05-02 21:08:26.146]	     | Already up to date.
+[2024-05-02 21:08:26.156]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-05-02 21:08:26.200]	 Done.
+
+[2024-05-05 11:46:42.169]	 List of discovered tpm plugins: catppuccin/tmux tmux-plugins/tpm
+[2024-05-05 11:46:42.178]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-05-05 11:46:42.216]	 Already installed "tpm"
+[2024-05-05 11:46:42.217]	 Already installed "tmux"
+[2024-05-05 11:46:42.226]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-05-05 11:46:42.244]	 Updating all plugins!
+[2024-05-05 11:46:42.244]	 
+[2024-05-05 11:46:42.653]	   "tmux" update success
+[2024-05-05 11:46:42.655]	     | Already up to date.
+[2024-05-05 11:46:42.658]	   "tpm" update success
+[2024-05-05 11:46:42.660]	     | Already up to date.
+[2024-05-05 11:46:42.670]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-05-05 11:46:42.707]	 Done.
+
+[2024-05-05 22:34:32.078]	 List of discovered tpm plugins: catppuccin/tmux tmux-plugins/tpm
+[2024-05-05 22:34:32.088]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-05-05 22:34:32.129]	 Already installed "tpm"
+[2024-05-05 22:34:32.130]	 Already installed "tmux"
+[2024-05-05 22:34:32.139]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-05-05 22:34:32.158]	 Updating all plugins!
+[2024-05-05 22:34:32.158]	 
+[2024-05-05 22:34:32.560]	   "tmux" update success
+[2024-05-05 22:34:32.564]	     | Already up to date.
+[2024-05-05 22:34:32.574]	   "tpm" update success
+[2024-05-05 22:34:32.577]	     | Already up to date.
+[2024-05-05 22:34:32.588]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-05-05 22:34:32.633]	 Done.
+
+[2024-05-10 23:12:23.991]	 List of discovered tpm plugins: catppuccin/tmux tmux-plugins/tpm
+[2024-05-10 23:12:24.009]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-05-10 23:12:24.056]	 Already installed "tpm"
+[2024-05-10 23:12:24.056]	 Already installed "tmux"
+[2024-05-10 23:12:24.066]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-05-10 23:12:24.083]	 Updating all plugins!
+[2024-05-10 23:12:24.083]	 
+[2024-05-10 23:12:24.504]	   "tpm" update success
+[2024-05-10 23:12:24.506]	     | Already up to date.
+[2024-05-10 23:12:24.690]	   "tmux" update success
+[2024-05-10 23:12:24.693]	     | From https://github.com/catppuccin/tmux
+[2024-05-10 23:12:24.693]	     |    a101630..75ffbfe  main       -> origin/main
+[2024-05-10 23:12:24.693]	     | Updating a101630..75ffbfe
+[2024-05-10 23:12:24.693]	     | Fast-forward
+[2024-05-10 23:12:24.693]	     |  builder/pane_builder.sh   | 16 ++++++++--------
+[2024-05-10 23:12:24.693]	     |  builder/window_builder.sh |  5 ++++-
+[2024-05-10 23:12:24.693]	     |  2 files changed, 12 insertions(+), 9 deletions(-)
+[2024-05-10 23:12:24.705]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-05-10 23:12:24.758]	 Done.
+
+[2024-05-11 16:30:43.124]	 List of discovered tpm plugins: catppuccin/tmux tmux-plugins/tpm
+[2024-05-11 16:30:43.134]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-05-11 16:30:43.179]	 Already installed "tpm"
+[2024-05-11 16:30:43.183]	 Already installed "tmux"
+[2024-05-11 16:30:43.202]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-05-11 16:30:43.221]	 Updating all plugins!
+[2024-05-11 16:30:43.221]	 
+[2024-05-11 16:30:43.704]	   "tpm" update success
+[2024-05-11 16:30:43.708]	     | Already up to date.
+[2024-05-11 16:30:43.843]	   "tmux" update success
+[2024-05-11 16:30:43.845]	     | From https://github.com/catppuccin/tmux
+[2024-05-11 16:30:43.845]	     |    75ffbfe..804f060  main       -> origin/main
+[2024-05-11 16:30:43.845]	     | Updating 75ffbfe..804f060
+[2024-05-11 16:30:43.845]	     | Fast-forward
+[2024-05-11 16:30:43.845]	     |  builder/window_builder.sh | 5 +----
+[2024-05-11 16:30:43.845]	     |  1 file changed, 1 insertion(+), 4 deletions(-)
+[2024-05-11 16:30:43.855]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-05-11 16:30:43.897]	 Done.
+
+[2024-05-11 16:30:58.514]	 List of discovered tpm plugins: catppuccin/tmux tmux-plugins/tpm
+[2024-05-11 16:30:58.523]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-05-11 16:30:58.558]	 Already installed "tmux"
+[2024-05-11 16:30:58.560]	 Already installed "tpm"
+[2024-05-11 16:30:58.570]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-05-11 16:30:58.588]	 Updating all plugins!
+[2024-05-11 16:30:58.589]	 
+[2024-05-11 16:30:59.029]	   "tpm" update success
+[2024-05-11 16:30:59.032]	     | Already up to date.
+[2024-05-11 16:30:59.037]	   "tmux" update success
+[2024-05-11 16:30:59.039]	     | Already up to date.
+[2024-05-11 16:30:59.055]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-05-11 16:30:59.096]	 Done.
+
+[2024-05-11 16:32:08.081]	 List of discovered tpm plugins: catppuccin/tmux tmux-plugins/tpm
+[2024-05-11 16:32:08.090]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-05-11 16:32:08.122]	 Already installed "tpm"
+[2024-05-11 16:32:08.124]	 Already installed "tmux"
+[2024-05-11 16:32:08.137]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-05-11 16:32:08.157]	 Updating all plugins!
+[2024-05-11 16:32:08.157]	 
+[2024-05-11 16:32:08.592]	   "tmux" update success
+[2024-05-11 16:32:08.596]	     | Already up to date.
+[2024-05-11 16:32:08.638]	   "tpm" update success
+[2024-05-11 16:32:08.641]	     | Already up to date.
+[2024-05-11 16:32:08.659]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-05-11 16:32:08.696]	 Done.
+
+[2024-05-11 16:32:57.359]	 List of discovered tpm plugins: catppuccin/tmux tmux-plugins/tpm
+[2024-05-11 16:32:57.368]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-05-11 16:32:57.401]	 Already installed "tpm"
+[2024-05-11 16:32:57.403]	 Already installed "tmux"
+[2024-05-11 16:32:57.413]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-05-11 16:32:57.431]	 Updating all plugins!
+[2024-05-11 16:32:57.431]	 
+[2024-05-11 16:32:57.848]	   "tmux" update success
+[2024-05-11 16:32:57.851]	     | Already up to date.
+[2024-05-11 16:32:57.879]	   "tpm" update success
+[2024-05-11 16:32:57.884]	     | Already up to date.
+[2024-05-11 16:32:57.910]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-05-11 16:32:57.984]	 Done.
+
+[2024-05-15 20:15:27.800]	 List of discovered tpm plugins: catppuccin/tmux tmux-plugins/tpm
+[2024-05-15 20:15:27.810]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-05-15 20:15:27.857]	 Already installed "tpm"
+[2024-05-15 20:15:27.858]	 Already installed "tmux"
+[2024-05-15 20:15:27.873]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-05-15 20:15:27.897]	 Updating all plugins!
+[2024-05-15 20:15:27.897]	 
+[2024-05-15 20:15:29.484]	   "tpm" update success
+[2024-05-15 20:15:29.486]	     | Already up to date.
+[2024-05-15 20:15:29.725]	   "tmux" update success
+[2024-05-15 20:15:29.727]	     | From https://github.com/catppuccin/tmux
+[2024-05-15 20:15:29.727]	     |    804f060..697087f  main       -> origin/main
+[2024-05-15 20:15:29.727]	     | Updating 804f060..697087f
+[2024-05-15 20:15:29.727]	     | Fast-forward
+[2024-05-15 20:15:29.727]	     |  .github/scripts/test.bash                          |  2 +-
+[2024-05-15 20:15:29.727]	     |  .github/workflows/test.yml                         | 10 +++----
+[2024-05-15 20:15:29.727]	     |  README.md                                          | 10 +++----
+[2024-05-15 20:15:29.727]	     |  catppuccin.tmux                                    | 35 +++++++++++++++-------
+[2024-05-15 20:15:29.727]	     |  .../catppuccin_frappe.tmuxtheme                    |  0
+[2024-05-15 20:15:29.727]	     |  .../catppuccin_latte.tmuxtheme                     | 10 +++----
+[2024-05-15 20:15:29.727]	     |  .../catppuccin_macchiato.tmuxtheme                 |  0
+[2024-05-15 20:15:29.727]	     |  .../catppuccin_mocha.tmuxtheme                     |  0
+[2024-05-15 20:15:29.727]	     |  tmux.tera                                          | 26 ++++++++++++++++
+[2024-05-15 20:15:29.727]	     |  utils/interpolate_utils.sh                         | 11 +++++++
+[2024-05-15 20:15:29.727]	     |  utils/tmux_utils.sh                                | 21 +++++++++++++
+[2024-05-15 20:15:29.728]	     |  11 files changed, 97 insertions(+), 28 deletions(-)
+[2024-05-15 20:15:29.728]	     |  rename catppuccin-frappe.tmuxtheme => themes/catppuccin_frappe.tmuxtheme (100%)
+[2024-05-15 20:15:29.728]	     |  rename catppuccin-latte.tmuxtheme => themes/catppuccin_latte.tmuxtheme (77%)
+[2024-05-15 20:15:29.728]	     |  rename catppuccin-macchiato.tmuxtheme => themes/catppuccin_macchiato.tmuxtheme (100%)
+[2024-05-15 20:15:29.728]	     |  rename catppuccin-mocha.tmuxtheme => themes/catppuccin_mocha.tmuxtheme (100%)
+[2024-05-15 20:15:29.728]	     |  create mode 100644 tmux.tera
+[2024-05-15 20:15:29.728]	     |  create mode 100644 utils/interpolate_utils.sh
+[2024-05-15 20:15:29.738]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-05-15 20:15:29.787]	 Done.
+
+[2024-05-16 00:56:14.424]	 List of discovered tpm plugins: catppuccin/tmux tmux-plugins/tpm
+[2024-05-16 00:56:14.433]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-05-16 00:56:14.478]	 Already installed "tpm"
+[2024-05-16 00:56:14.478]	 Already installed "tmux"
+[2024-05-16 00:56:14.489]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-05-16 00:56:14.511]	 Updating all plugins!
+[2024-05-16 00:56:14.511]	 
+[2024-05-16 00:56:15.125]	   "tmux" update success
+[2024-05-16 00:56:15.125]	   "tpm" update success
+[2024-05-16 00:56:15.128]	     | Already up to date.
+[2024-05-16 00:56:15.129]	     | Already up to date.
+[2024-05-16 00:56:15.148]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-05-16 00:56:15.209]	 Done.
+
+[2024-05-16 11:18:59.185]	 List of discovered tpm plugins: catppuccin/tmux tmux-plugins/tpm
+[2024-05-16 11:18:59.194]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-05-16 11:18:59.231]	 Already installed "tpm"
+[2024-05-16 11:18:59.233]	 Already installed "tmux"
+[2024-05-16 11:18:59.243]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-05-16 11:18:59.261]	 Updating all plugins!
+[2024-05-16 11:18:59.261]	 
+[2024-05-16 11:18:59.791]	   "tmux" update success
+[2024-05-16 11:18:59.793]	     | Already up to date.
+[2024-05-16 11:18:59.796]	   "tpm" update success
+[2024-05-16 11:18:59.798]	     | Already up to date.
+[2024-05-16 11:18:59.808]	 Invoking /home/user/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-05-16 11:18:59.851]	 Done.
+

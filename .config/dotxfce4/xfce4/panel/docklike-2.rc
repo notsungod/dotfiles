@@ -1,0 +1,11 @@
+[user]
+indicatorStyle=2
+inactiveColor=rgb(64,103,191)
+noWindowsListIfSingle=false
+onlyDisplayScreen=true
+pinned=
+showPreviews=true
+showWindowCount=true
+indicatorColor=rgb(14,158,72)
+forceIconSize=true
+iconSize=20
