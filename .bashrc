@@ -25,11 +25,13 @@ if [ -d ~/.bashrc.d ]; then
 fi
 unset rc
 export QT_SCALE_FACTOR=2.5
+export XDG_CONFIG_HOME=~/.config
 # ~/.bashrc
 #
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
+alias t='tmux'
 alias x='sudo $(history -p !!)'
 alias n=nvim
 alias nt='nvim ~/Documents/vault/personal/TODO.md'
