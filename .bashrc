@@ -39,7 +39,7 @@ alias l='ls --color=auto -lah'
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 alias d='cd ~/united/development/ && l'
-alias resetff='cp -rf $HOME/.config/mozilla/* $HOME/.mozilla/firefox/*default-realease*/ && $HOME/.mozilla/firefox/*default-release*/updater.sh'
+alias resetff='cp -rf $HOME/.config/mozilla/* $HOME/.mozilla/firefox/*default-release*/ && $HOME/.mozilla/firefox/*default-release*/updater.sh'
 PS1='[\u@\h \W]\$ '
 eval "$(starship init bash)"
 fcd() {
