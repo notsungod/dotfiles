@@ -41,6 +41,7 @@ alias grep='grep --color=auto'
 alias d='cd ~/united/development/ && l'
 alias resetff='cp -rf $HOME/.config/mozilla/* $HOME/.mozilla/firefox/*default-release*/ && $HOME/.mozilla/firefox/*default-release*/updater.sh'
 PS1='[\u@\h \W]\$ '
+PATH=$PATH:~/.config/scripts/statusbar/
 eval "$(starship init bash)"
 fcd() {
     cd "$(find -type d | fzf)"
