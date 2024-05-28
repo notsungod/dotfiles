@@ -53,5 +53,5 @@ open() {
 }
 export MANPAGER='nvim +Man!'
 export EDITOR=vim
-alias config='/usr/bin/git --git-dir=/home/user/.cfg/ --work-tree=/home/user'
+alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 xset r rate 300 50
