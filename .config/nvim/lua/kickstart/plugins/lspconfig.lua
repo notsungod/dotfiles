@@ -109,32 +109,32 @@ return {
       local servers = {
         -- clangd = {},
         -- gopls = {},
-        pyright = {
-          filetypes = { 'python' },
-          settings = {
-            configurationSources = { 'flake8' },
-            formatCommand = { 'black' },
-            pylsp = {
-              plugins = {
-                -- jedi_completion = {fuzzy = true},
-                -- jedi_completion = {eager=true},
-                jedi_completion = {
-                  include_params = true,
-                },
-                jedi_signature_help = { enabled = true },
-                pyflakes = { enabled = true, ignore = { 'E501', 'E231' } },
-                -- pylint = {args = {'--ignore=E501,E231', '-'}, enabled=true, debounce=200},
-                pylsp_mypy = { enabled = false },
-                pycodestyle = {
-                  enabled = true,
-                  ignore = { 'E501', 'E231' },
-                  maxLineLength = 120,
-                },
-                yapf = { enabled = true },
-              },
-            },
-          },
-        },
+        -- pyright = {
+        --   filetypes = { 'python' },
+        --   settings = {
+        --     configurationSources = { 'flake8' },
+        --     formatCommand = { 'black' },
+        --     pylsp = {
+        --       plugins = {
+        --         -- jedi_completion = {fuzzy = true},
+        --         -- jedi_completion = {eager=true},
+        --         jedi_completion = {
+        --           include_params = true,
+        --         },
+        --         jedi_signature_help = { enabled = true },
+        --         pyflakes = { enabled = true, ignore = { 'E501', 'E231' } },
+        --         -- pylint = {args = {'--ignore=E501,E231', '-'}, enabled=true, debounce=200},
+        --         pylsp_mypy = { enabled = false },
+        --         pycodestyle = {
+        --           enabled = true,
+        --           ignore = { 'E501', 'E231' },
+        --           maxLineLength = 120,
+        --         },
+        --         yapf = { enabled = true },
+        --       },
+        --     },
+        --   },
+        -- },
 
         -- rust_analyzer = {},
         -- ... etc. See `:help lspconfig-all` for a list of all the pre-configured LSPs
