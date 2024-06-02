@@ -32,7 +32,10 @@ export XDG_CONFIG_HOME=~/.config
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 alias t='tmux'
+alias c='clear'
 alias x='sudo $(history -p !!)'
+alias gdb='gdb -q -ex init-pwndbg "$@"'
+alias gdbe='gdb -q -ex init-gef "$@"'
 alias n=nvim
 alias nt='nvim ~/Documents/vault/personal/TODO.md'
 alias l='ls --color=auto -lah'
@@ -42,7 +45,7 @@ alias d='cd ~/united/development/ && l'
 alias p='cd ~/united/programs/ && l'
 alias resetff='cp -rf $HOME/.config/mozilla/* $HOME/.mozilla/firefox/*default-release*/ && $HOME/.mozilla/firefox/*default-release*/updater.sh'
 PS1='[\u@\h \W]\$ '
-PATH=$PATH:~/.config/scripts/statusbar/
+export PATH=$PATH:~/.config/scripts/statusbar/:$HOME/united/proglinks
 eval "$(starship init bash)"
 fcd() {
     cd "$(find -type d | fzf)"

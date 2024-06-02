@@ -145,3 +145,10 @@ end)
 -- Obsidian
 vim.keymap.set('n', '<leader>ot', ':ObsidianToggleCheckbox<CR>')
 vim.keymap.set('n', '<leader>nt', ':n ~/Documents/vault/personal/TODO.md<CR>')
+
+--binary
+vim.keymap.set('n', '<leader>hr', ':%!xxd<CR>')
+vim.keymap.set('n', '<leader>hw', ':%!xxd -r<CR>')
+
+--mine
+vim.keymap.set('n', '<leader>W', ':wq<CR>')
